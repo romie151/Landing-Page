@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+.intro {
+    width: 100%;
+    background-color: #1F2937;
+    /* margin: -8px; */
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8
+
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.menu-bar {
+    display: flex;
+
+}
+img {
+    border: #3882F6;
+}
+.quote {
+    background-color: #E5E7EB;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    display: flex;
+    margin: 0;
+    width: 800px;
+
+}
+
+.quote-author {
+    margin: 0;
+}
+
+.signup {
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.phrase {
+    background-color: #3882F6 ;
+    height: 150px;
+    width: 1025px;
+}
+
+footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
